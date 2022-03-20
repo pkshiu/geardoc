@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Welcome to Geareg
 
-You can use the [editor on GitHub](https://github.com/pkshiu/geardoc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Geareg came out of my passion for reviewing bags and other EDC products. If the names like Goruck, TAD, TomBihn make any sense to you, this is your tribe. This application / website lets me:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- build a database of bags and other products
+- share photos of these bags from owners like myself
+- maintain a personal database of bags that I owned, keeping tabs of my buy and sell activities, how much money I spent
+- list bags for sale
 
-### Markdown
+## The Bag Database
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The bag database is the hardest part of building this website. I curate this by hand from all the bags that I owned. It requires collecting
+information like dimension and weights, manufacturers website link, online reviews, and more.
 
-```markdown
-Syntax highlighted code block
+## The Photos
 
-# Header 1
-## Header 2
-### Header 3
+All the photos are submitted by members of this site. If you upload an appropriate photo, they will be randomly shared to anyone viewing
+these products.
 
-- Bulleted
-- List
+## Your Personal Database
 
-1. Numbered
-2. List
+You can create your personal database of any bags on the site, adding private information only available to yourself, like buy sell dates and
+prices.
 
-**Bold** and _Italic_ and `Code` text
+### Status of your bag
 
-[Link](url) and ![Image](src)
-```
+This is an important field that you control. You can use one of these status at one time:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- current: You own this bag
+- selling: You own this bag and want to sell it
+- sold: You sold this bag
+- grail: You are looking for this bag
 
-### Jekyll Themes
+## Who Owns the Data / Who sees your data
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pkshiu/geardoc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Any data you entered specific to your own bag is yours and the public or other member do not see them except:
 
-### Support or Contact
+- The status of your bag is shared with others. For example we want to know what bags are for sale!
+- Sell price (asking price) is obviously shared, as well as any text that you entered
+- Photos that you added are shared
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you want your data removed, just contact the administrator. They can remove all data by bag entry.
+Note that all data are accessible to the administrator team for product support.
+
+If you want those removed, just let the admin know.
+
+## I want In!
+
+So happy you want to be part of this project. Currently this product is in a close beta state.
